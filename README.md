@@ -6,7 +6,7 @@
   <img align="left" alt="Aljaž's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a> -->
 <a href="https://twitter.com/aljazmedo">
-  <img align="left" alt="Aljaž Medič | Twitter" width="22px" src=" https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
+  <img align="left" alt="Aljaž Medič | Twitter" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/aljaz-medic/">
   <img align="left" alt="Aljaž's LinkedIn" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
