@@ -19,7 +19,7 @@
 
 My name is **Aljaž**, and I am a university student at University of Computer Science, Ljubljana - Slovenija.
 
-I'm a developer, musician, firefighter... And I aspire to become a red team penetration tester in the future.
+I'm a developer, a hacker, a dev-sec-ops engineer... And I aspire to become a red team penetration tester in the future.
 I love attending [CTF](https://ctftime.org/ctf-wtf/) hacking competitions,
 and solving challenges at <a target="_blank" href="https://app.hackthebox.com/">Hack the Box <img alt="HTB" align="center" width="24px" src="https://github.com/hackthebox.png" /></a>.
 My other big interest is data science; I took Stanford course CS224W, and AI module on my university - mainly the fields of Computer Vision, Natural Language Processing and Machnie Learning on Graphs.  
