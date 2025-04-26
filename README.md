@@ -78,7 +78,7 @@ My other big interest is data science; I took Stanford course CS224W, and AI mod
   <!-- 
   <a href="#">![Github stats](https://github-readme-stats-smoky-ten.vercel.app/api?username=aljazmedic&theme=github_dark&count_private=true&hide_border=true&line_height=20)</a>
   -->
-  <a href="#">![Top Langs](https://github-readme-stats.aljaz.si/api/top-langs?username=aljazmedic&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
+  <a href="#">![Top Langs](https://gh-stats.aljaz.si/api/top-langs?username=aljazmedic&layout=compact&theme=github_dark&count_private=true&hide_border=true)</a>
 
 
 
